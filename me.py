@@ -680,7 +680,7 @@ def rcrack(uid,pwx,tl):
 
                 cid = coki[7:22]
 
-                print('    \033[1;32m(ARYAN-OKðŸ”¥)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
+                print('    \033[1;32m(Asad-OKðŸ”¥)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
 
                 cek_apk(session,coki)
 
@@ -696,7 +696,7 @@ def rcrack(uid,pwx,tl):
 
                 cid = coki[24:39]
 
-                print('    \33[1;30m(ARYAN-CPðŸ¤•)  ' +cid+ ' | ' +ps+           '  \33[0;97m')
+                print('    \33[1;30m(Asad-CPðŸ¤•)  ' +cid+ ' | ' +ps+           '  \33[0;97m')
 
                 open('/sdcard/Asad-CP.txt', 'a').write( cid+' | '+ps+' \n')
 
